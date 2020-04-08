@@ -6,3 +6,5 @@ New York
 Florida
 Arkansas
 Utah
+Nevada
+Ohio
